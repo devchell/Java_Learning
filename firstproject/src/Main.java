@@ -17,7 +17,8 @@ public class Main {
         classification = (int) (average/6);
         System.out.println("Movie: " + movie);
         System.out.println("Year: " + year);
-        System.out.println("Classification: " + classification + " Stars");
         System.out.println("Premium Plan: " + premium);
+        System.out.println("Classification: " + classification + " Stars");
+
     }
 }
